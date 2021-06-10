@@ -8,4 +8,7 @@ audio mixng
 vfx
 
 
+color correction
+di 
 final version
+
