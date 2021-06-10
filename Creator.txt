@@ -6,3 +6,6 @@ video editing
 video mixing
 audio mixng
 vfx
+
+color correction
+di 
